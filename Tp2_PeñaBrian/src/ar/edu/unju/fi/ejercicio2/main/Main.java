@@ -35,7 +35,7 @@ public class Main {
                         modificarEfemeride(scanner, efemerides);
                         break;
                     case 5:
-                        System.out.println("Saliendo...");
+                        System.out.println("Gracias Vuelva Pronto");
                         break;
                     default:
                         System.out.println("Opción no válida. Intente de nuevo.");
